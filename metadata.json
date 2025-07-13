@@ -1,0 +1,6 @@
+{
+  "name": "Chore Champion",
+  "description": "A fun and engaging application to manage household chores, track completions, display a leaderboard, and send friendly reminders. Uses Gemini API for generating reminder messages.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
